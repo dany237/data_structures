@@ -63,7 +63,6 @@ data_structures/
     ├── queue.py
     ├── tree.py
     ├── graph.py
-    └── __main__.py
 ```
 
 - Each `.py` file represents one data structure
