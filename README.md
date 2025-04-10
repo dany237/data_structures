@@ -26,7 +26,7 @@ Each data structure is implemented from scratch with easy-to-read code and usefu
 Clone this repository and use it locally:
 
 ```bash
-git clone https://github.com/your-username/data_structures.git
+git clone https://github.com/dany237/data_structures.git
 cd data_structures
 ```
 
